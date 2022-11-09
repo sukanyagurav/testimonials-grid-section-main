@@ -82,6 +82,7 @@ footer a {
     background-color: grey;
     padding: 2rem 2rem 1.8rem;
     border-radius: 15px;
+     box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.4);
 }
 
 .testimonial__user {
